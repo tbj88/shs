@@ -771,11 +771,12 @@ function renderUiText(){
     const cur = sel.value;
     sel.innerHTML =
       `<option value="">${esc(L(DATA.ui.filterAll||{}))||"All Categories"}</option>`
-    + `<option value="hydraulic">${esc(L(DATA.ui.filterHydraulic||{}))||"Hydraulic Seals"}</option>`
+    + `<option value="rod">${esc(L(DATA.ui.filterRod||{}))||"Rod Seals"}</option>`
+    + `<option value="piston">${esc(L(DATA.ui.filterPiston||{}))||"Piston Seals"}</option>`
+    + `<option value="wiper">${esc(L(DATA.ui.filterWiper||{}))||"Wipers / Scrapers"}</option>`
+    + `<option value="guide">${esc(L(DATA.ui.filterGuide||{}))||"Guide / Wear Rings"}</option>`
     + `<option value="pneumatic">${esc(L(DATA.ui.filterPneumatic||{}))||"Pneumatic Seals"}</option>`
-    + `<option value="wiper">${esc(L(DATA.ui.filterWiper||{}))||"Wiper / Buffer Seals"}</option>`
-    + `<option value="oring">${esc(L(DATA.ui.filterORing||{}))||"O-Rings & Wear Rings"}</option>`
-    + `<option value="custom">${esc(L(DATA.ui.filterCustom||{}))||"OEM Custom Molds"}</option>`;
+    + `<option value="special">${esc(L(DATA.ui.filterSpecial||{}))||"Specialty Seals & O-Rings"}</option>`;
     sel.value = cur;
   }
   // brand-level
