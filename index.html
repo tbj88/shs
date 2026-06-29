@@ -944,7 +944,7 @@ function renderProductDetail(){
   if(!CURRENT_PRODUCT){ Q("#pdContainer").innerHTML = ""; return; }
   const p = CURRENT_PRODUCT;
   Q("#pdContainer").innerHTML = `
-    <a class="pd-back" href="#" onclick="route('catalog');return false">← ${esc(L(DATA.ui.navCatalog))}</a>
+    <a class="pd-back" href="#" onclick="route('catalog',{restoreCatalog:true});return false">← ${esc(L(DATA.ui.navCatalog))}</a>
     <div class="pd-grid">
       <div class="pd-gallery">
         <div class="pd-main-img"><img id="pdMainImg" src="${esc(p.images[0]||'')}" alt=""></div>
