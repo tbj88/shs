@@ -176,9 +176,13 @@ body.staff-mode .nav a.staff-only,body.admin-mode .nav a.staff-only,body.admin-m
 @media(max-width:600px){.products-grid{grid-template-columns:1fr}}
 
 /* === Product Detail === */
-.pd-container{max-width:1280px;margin:0 auto;padding:48px 24px}
-.pd-back{display:inline-flex;align-items:center;gap:8px;font-size:14px;font-weight:600;color:var(--c-primary);margin-bottom:24px;padding:9px 16px;background:#fff;border:1px solid var(--c-line);border-radius:8px;transition:all .15s}
+.pd-container{max-width:1280px;margin:0 auto;padding:0 24px 48px}
+/* sticky 返回栏 — 吸在顶导下方,带毛玻璃和浅阴影 */
+.pd-back-bar{position:sticky;top:69px;z-index:25;background:rgba(247,249,252,.94);backdrop-filter:saturate(180%) blur(10px);margin:0 -24px 24px;padding:14px 24px;border-bottom:1px solid var(--c-line);transition:box-shadow .2s}
+.pd-back-bar.scrolled{box-shadow:0 4px 12px rgba(15,23,42,.08)}
+.pd-back{display:inline-flex;align-items:center;gap:8px;font-size:14px;font-weight:600;color:var(--c-primary);padding:9px 16px;background:#fff;border:1px solid var(--c-line);border-radius:8px;transition:all .15s;text-decoration:none}
 .pd-back:hover{background:var(--c-primary);color:#fff;border-color:var(--c-primary);transform:translateX(-2px)}
+@media(max-width:900px){.pd-back-bar{top:60px;padding:10px 16px;margin:0 -16px 16px}}
 
 /* === Back-to-home button (catalog / certs / partners 等子页用) === */
 .page-back{display:inline-flex;align-items:center;gap:8px;font-size:14px;font-weight:600;color:var(--c-primary);margin-bottom:20px;padding:9px 16px;background:#fff;border:1px solid var(--c-line);border-radius:8px;transition:all .15s;cursor:pointer}
@@ -875,6 +879,25 @@ function setupStickyObserver(){
   _stickyObserver.observe(sentinel);
 }
 
+// 产品详情页返回栏的 sticky 阴影
+let _pdBackObserver = null;
+function setupPdBackObserver(){
+  const el = Q("#pdBackBar");
+  if(!el) return;
+  if(_pdBackObserver) _pdBackObserver.disconnect();
+  let sentinel = Q("#pdBackBarSentinel");
+  if(sentinel) sentinel.remove();
+  sentinel = document.createElement("div");
+  sentinel.id = "pdBackBarSentinel";
+  sentinel.style.cssText = "position:absolute;top:-1px;height:1px;width:1px;pointer-events:none";
+  el.parentElement.style.position = "relative";
+  el.parentElement.insertBefore(sentinel, el);
+  _pdBackObserver = new IntersectionObserver(([entry])=>{
+    el.classList.toggle("scrolled", !entry.isIntersecting);
+  }, {rootMargin:"-70px 0px 0px 0px"});
+  _pdBackObserver.observe(sentinel);
+}
+
 function startHeroAuto(){
   if(heroTimer) clearInterval(heroTimer);
   heroTimer = setInterval(()=>{
@@ -981,7 +1004,9 @@ function renderProductDetail(){
   if(!CURRENT_PRODUCT){ Q("#pdContainer").innerHTML = ""; return; }
   const p = CURRENT_PRODUCT;
   Q("#pdContainer").innerHTML = `
-    <a class="pd-back" href="#" onclick="route('catalog',{restoreCatalog:true});return false">← ${esc(L(DATA.ui.navCatalog))}</a>
+    <div class="pd-back-bar" id="pdBackBar">
+      <a class="pd-back" href="#" onclick="route('catalog',{restoreCatalog:true});return false">← ${esc(L(DATA.ui.navCatalog))}</a>
+    </div>
     <div class="pd-grid">
       <div class="pd-gallery">
         <div class="pd-main-img"><img id="pdMainImg" src="${esc(p.images[0]||'')}" alt=""></div>
@@ -1009,6 +1034,7 @@ function renderProductDetail(){
     </div>
     ${(p.detailImgs && p.detailImgs.length)?`<div class="pd-detail-imgs">${p.detailImgs.map(im=>`<img src="${esc(im)}">`).join('')}</div>`:''}
   `;
+  setupPdBackObserver();
 }
 function pdSwitchImg(i){
   const p = CURRENT_PRODUCT;
