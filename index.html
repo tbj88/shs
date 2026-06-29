@@ -605,12 +605,48 @@ function applyModeClass(){
 }
 
 /* ===== Routing ===== */
-function route(page){
+// 保存 catalog 浏览状态 -> 从产品详情返回时恢复 scroll/search/filter
+function saveCatalogState(){
+  const search = Q("#catalogSearch");
+  const filter = Q("#catalogFilter");
+  sessionStorage.setItem(BRAND+"_catalogState", JSON.stringify({
+    scrollY: window.scrollY,
+    search: search ? search.value : "",
+    filter: filter ? filter.value : "",
+    ts: Date.now()
+  }));
+}
+function restoreCatalogState(){
+  let st = null;
+  try { st = JSON.parse(sessionStorage.getItem(BRAND+"_catalogState")||"null"); } catch(e){}
+  if(!st) return false;
+  if(Date.now() - st.ts > 30*60*1000) return false; // 30 min 内才恢复
+  const search = Q("#catalogSearch");
+  const filter = Q("#catalogFilter");
+  if(search) search.value = st.search || "";
+  if(filter) filter.value = st.filter || "";
+  renderCatalog();
+  requestAnimationFrame(()=>requestAnimationFrame(()=>{
+    window.scrollTo({top: st.scrollY||0, behavior:"instant"});
+  }));
+  return true;
+}
+
+function route(page, opts){
+  opts = opts || {};
+  const fromProductBack = opts.restoreCatalog === true;
   CURRENT_PAGE = page;
   QA(".page").forEach(p=>p.classList.remove("active"));
   const target = Q("#page-"+page);
   if(target) target.classList.add("active");
-  if(page==="catalog"){ renderCatalog(); setupStickyObserver(); }
+  if(page==="catalog"){
+    renderCatalog();
+    setupStickyObserver();
+    if(fromProductBack && restoreCatalogState()){
+      document.getElementById("mainNav").classList.remove("open");
+      return;
+    }
+  }
   if(page==="intel") renderIntel("staff_intel","intelList");
   if(page==="sop") renderIntel("staff_sop","sopList");
   if(page==="certs") renderCerts();
@@ -622,6 +658,7 @@ function route(page){
 function routeToProduct(id){
   CURRENT_PRODUCT = DATA.products.find(p=>p.id===id);
   if(!CURRENT_PRODUCT) return;
+  if(CURRENT_PAGE === "catalog") saveCatalogState();
   CURRENT_PAGE="product";
   QA(".page").forEach(p=>p.classList.remove("active"));
   Q("#page-product").classList.add("active");
