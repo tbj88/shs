@@ -1,0 +1,3657 @@
+{
+  "brand": {
+    "name": "SHINE SEAL",
+    "nameFull": {
+      "en": "Taizhou Shine Seals Co., Ltd.",
+      "zh": "台州新胜密封件有限公司",
+      "de": "Taizhou Shine Seals Co., Ltd.",
+      "es": "Taizhou Shine Seals Co., Ltd."
+    },
+    "tagline": {
+      "en": "Precision Hydraulic & Pneumatic Seals. 10,000+ Standard Sizes in Stock.",
+      "zh": "精密液压气动密封件 · 万种规格现货库存",
+      "de": "Präzisions-Hydraulik- und Pneumatik-Dichtungen · 10.000+ Standardgrößen auf Lager",
+      "es": "Sellos Hidráulicos y Neumáticos de Precisión · 10.000+ Tamaños Estándar en Stock"
+    },
+    "foundedYear": 2021,
+    "email": "info@shineseal.com",
+    "phone": "+86 (Inquire via Email)",
+    "address": {
+      "en": "Taizhou, Zhejiang Province, China",
+      "zh": "中国浙江省台州市",
+      "de": "Taizhou, Provinz Zhejiang, China",
+      "es": "Taizhou, Provincia de Zhejiang, China"
+    }
+  },
+  "hero": [
+    {
+      "img": "hero/hero1.jpg",
+      "kicker": {
+        "en": "PRECISION MANUFACTURING",
+        "zh": "精密制造",
+        "de": "PRÄZISIONSFERTIGUNG",
+        "es": "FABRICACIÓN DE PRECISIÓN"
+      },
+      "title": {
+        "en": "Sealing Excellence,\nMade in Zhejiang.",
+        "zh": "密封件的精工艺，\n源自浙江台州。",
+        "de": "Dichtungsexzellenz,\nHergestellt in Zhejiang.",
+        "es": "Excelencia en Sellado,\nHecho en Zhejiang."
+      },
+      "sub": {
+        "en": "40+ years of experience in hydraulic and pneumatic seals. Over 10,000 standard sizes in stock. Custom molds available for non-standard requirements.",
+        "zh": "40 余年液压气动密封件制造经验。万种标准规格现货供应。非标准需求可开模定制。",
+        "de": "40+ Jahre Erfahrung in Hydraulik- und Pneumatik-Dichtungen. Über 10.000 Standardgrößen auf Lager. Spezialformen für Sonderanforderungen verfügbar.",
+        "es": "40+ años de experiencia en sellos hidráulicos y neumáticos. Más de 10.000 tamaños estándar en stock. Moldes personalizados disponibles para requisitos no estándar."
+      },
+      "ctaPrimary": {
+        "en": "Browse Catalog",
+        "zh": "浏览产品目录",
+        "de": "Katalog Ansehen",
+        "es": "Ver Catálogo"
+      },
+      "ctaGhost": {
+        "en": "Our Certifications",
+        "zh": "查看资质",
+        "de": "Unsere Zertifikate",
+        "es": "Nuestras Certificaciones"
+      }
+    },
+    {
+      "img": "hero/hero2.jpg",
+      "kicker": {
+        "en": "10,000+ STANDARD SIZES",
+        "zh": "万种标准规格",
+        "de": "10.000+ STANDARDGRÖSSEN",
+        "es": "10.000+ TAMAÑOS ESTÁNDAR"
+      },
+      "title": {
+        "en": "From Stock or Mold,\nDelivered on Time.",
+        "zh": "现货 + 定制，\n准时交付每一单。",
+        "de": "Aus Lager oder Form,\nPünktlich Geliefert.",
+        "es": "De Stock o Molde,\nEntregado a Tiempo."
+      },
+      "sub": {
+        "en": "100% on-time delivery rate. ≤4-hour response time. PU, Rubber, PTFE, Nylon, POM, and TPE materials available for hydraulic, pneumatic and custom cylinder applications.",
+        "zh": "100% 准时发货率 · ≤4 小时响应时间。PU、橡胶、PTFE、尼龙、POM、TPE 多种材料，覆盖液压、气动及定制油缸应用。",
+        "de": "100% pünktliche Lieferquote. Reaktionszeit ≤4 Stunden. PU, Gummi, PTFE, Nylon, POM und TPE-Materialien für hydraulische, pneumatische und kundenspezifische Zylinderanwendungen verfügbar.",
+        "es": "Tasa de entrega 100% puntual. Tiempo de respuesta ≤4 horas. Materiales PU, Caucho, PTFE, Nylon, POM y TPE disponibles para aplicaciones hidráulicas, neumáticas y de cilindros personalizados."
+      },
+      "ctaPrimary": {
+        "en": "Request a Quote",
+        "zh": "立即询价",
+        "de": "Angebot Anfordern",
+        "es": "Solicitar Cotización"
+      },
+      "ctaGhost": {
+        "en": "View Products",
+        "zh": "查看产品",
+        "de": "Produkte Ansehen",
+        "es": "Ver Productos"
+      }
+    },
+    {
+      "img": "hero/hero3.jpg",
+      "kicker": {
+        "en": "GLOBAL EXPORT",
+        "zh": "全球出口",
+        "de": "WELTWEITER EXPORT",
+        "es": "EXPORTACIÓN GLOBAL"
+      },
+      "title": {
+        "en": "Trusted by Buyers\nWorldwide.",
+        "zh": "全球采购商\n值得信赖的合作伙伴。",
+        "de": "Vertraut von Käufern\nWeltweit.",
+        "es": "Confianza de Compradores\nen Todo el Mundo."
+      },
+      "sub": {
+        "en": "39% export ratio. Active in international machinery exhibitions including FEIMEC Brazil. Direct factory pricing, Alibaba Trade Assurance, and OEM customization for global buyers.",
+        "zh": "39% 出口比例 · 参展国际机械展（包括巴西 FEIMEC）。工厂直接价格 · 阿里贸易保障 · 面向全球买家的 OEM 定制服务。",
+        "de": "39% Exportanteil. Aktiv auf internationalen Maschinenausstellungen wie FEIMEC Brasilien. Direkte Fabrikpreise, Alibaba Trade Assurance und OEM-Anpassung für globale Käufer.",
+        "es": "Ratio de exportación 39%. Activo en exhibiciones internacionales de maquinaria incluyendo FEIMEC Brasil. Precios directos de fábrica, Alibaba Trade Assurance y personalización OEM para compradores globales."
+      },
+      "ctaPrimary": {
+        "en": "Contact Sales",
+        "zh": "联系销售",
+        "de": "Vertrieb Kontaktieren",
+        "es": "Contactar Ventas"
+      },
+      "ctaGhost": {
+        "en": "View Catalog",
+        "zh": "查看目录",
+        "de": "Katalog Ansehen",
+        "es": "Ver Catálogo"
+      }
+    }
+  ],
+  "stats": [
+    {
+      "value": "40+",
+      "label": {
+        "en": "Years of Experience",
+        "zh": "年制造经验",
+        "de": "Jahre Erfahrung",
+        "es": "Años de Experiencia"
+      }
+    },
+    {
+      "value": "10,000+",
+      "label": {
+        "en": "Standard Sizes in Stock",
+        "zh": "标准规格现货",
+        "de": "Standardgrößen auf Lager",
+        "es": "Tamaños Estándar en Stock"
+      }
+    },
+    {
+      "value": "≤4h",
+      "label": {
+        "en": "Avg. Response Time",
+        "zh": "平均响应时间",
+        "de": "Reaktionszeit Ø",
+        "es": "Tiempo de Respuesta"
+      }
+    },
+    {
+      "value": "100%",
+      "label": {
+        "en": "On-Time Delivery Rate",
+        "zh": "准时发货率",
+        "de": "Pünktliche Lieferung",
+        "es": "Entrega Puntual"
+      }
+    }
+  ],
+  "whyTitle": {
+    "en": "Why Choose SHINE SEAL",
+    "zh": "为什么选择 SHINE SEAL",
+    "de": "Warum SHINE SEAL Wählen",
+    "es": "Por Qué Elegir SHINE SEAL"
+  },
+  "whySub": {
+    "en": "From your inquiry to a sealed cylinder — we cover stock SKUs, custom molds, and ongoing technical support.",
+    "zh": "从您的询盘到密封油缸成品交付——标准规格、开模定制、长期技术支持，一站式解决。",
+    "de": "Von Ihrer Anfrage bis zum abgedichteten Zylinder — wir decken Lagerartikel, kundenspezifische Formen und laufenden technischen Support ab.",
+    "es": "Desde su consulta hasta un cilindro sellado — cubrimos SKUs en stock, moldes personalizados y soporte técnico continuo."
+  },
+  "why": [
+    {
+      "icon": "🏭",
+      "title": {
+        "en": "In-House Mold Workshop",
+        "zh": "自有模具车间",
+        "de": "Eigene Werkzeugbau-Werkstatt",
+        "es": "Taller de Moldes Propio"
+      },
+      "desc": {
+        "en": "Non-standard seals? Our in-house mold workshop develops custom solutions based on your drawings — no MOQ surcharge for tooling.",
+        "zh": "非标密封件？自有模具车间根据您的图纸开发定制方案——开模无 MOQ 溢价。",
+        "de": "Nicht-Standard-Dichtungen? Unsere hauseigene Werkzeugbau-Werkstatt entwickelt kundenspezifische Lösungen nach Ihren Zeichnungen — kein MOQ-Aufschlag für Werkzeuge.",
+        "es": "¿Sellos no estándar? Nuestro taller de moldes propio desarrolla soluciones personalizadas según sus planos — sin recargo MOQ por herramientas."
+      },
+      "cta": {
+        "en": "Send your drawing",
+        "zh": "发送图纸",
+        "de": "Zeichnung Senden",
+        "es": "Enviar Plano"
+      },
+      "link": "#contact"
+    },
+    {
+      "icon": "📦",
+      "title": {
+        "en": "10,000+ Sizes in Stock",
+        "zh": "万种规格现货",
+        "de": "10.000+ Größen auf Lager",
+        "es": "10.000+ Tamaños en Stock"
+      },
+      "desc": {
+        "en": "Industry-leading inventory of standard hydraulic and pneumatic seal sizes — most orders ship within 5-7 days.",
+        "zh": "行业领先的标准液压气动密封件规格库存——多数订单 5-7 天发货。",
+        "de": "Branchenführendes Lager mit Standard-Hydraulik- und Pneumatik-Dichtungsgrößen — die meisten Bestellungen werden innerhalb von 5-7 Tagen versandt.",
+        "es": "Inventario líder en la industria de tamaños estándar de sellos hidráulicos y neumáticos — la mayoría de los pedidos se envían en 5-7 días."
+      },
+      "cta": {
+        "en": "Browse catalog",
+        "zh": "查看目录",
+        "de": "Katalog Durchsuchen",
+        "es": "Ver Catálogo"
+      },
+      "link": "#catalog"
+    },
+    {
+      "icon": "🧪",
+      "title": {
+        "en": "Multi-Material Capability",
+        "zh": "多材料制造能力",
+        "de": "Multi-Material-Kompetenz",
+        "es": "Capacidad Multi-Material"
+      },
+      "desc": {
+        "en": "PU, NBR, PTFE, Nylon, POM, TPE, HNBR, and Bronze-filled compounds — matched to your application requirements.",
+        "zh": "PU、NBR、PTFE、尼龙、POM、TPE、HNBR、青铜填充复合材料——匹配您的应用需求。",
+        "de": "PU, NBR, PTFE, Nylon, POM, TPE, HNBR und bronzegefüllte Verbindungen — passend zu Ihren Anwendungsanforderungen.",
+        "es": "PU, NBR, PTFE, Nylon, POM, TPE, HNBR y compuestos rellenos de bronce — adaptados a los requisitos de su aplicación."
+      },
+      "cta": {
+        "en": "Material guide",
+        "zh": "材料指南",
+        "de": "Materialleitfaden",
+        "es": "Guía de Materiales"
+      },
+      "link": "#catalog"
+    },
+    {
+      "icon": "🚢",
+      "title": {
+        "en": "Direct Factory Export",
+        "zh": "工厂直接出口",
+        "de": "Direktexport Werk",
+        "es": "Exportación Directa de Fábrica"
+      },
+      "desc": {
+        "en": "39% of our output goes overseas. Direct factory pricing, Alibaba Trade Assurance, and shipping coordination — no middleman.",
+        "zh": "39% 产量销往海外。工厂直接报价 · 阿里贸易保障 · 协助安排物流——无中间商。",
+        "de": "39% unserer Produktion gehen nach Übersee. Direkte Fabrikpreise, Alibaba Trade Assurance und Versandkoordination — kein Zwischenhändler.",
+        "es": "El 39% de nuestra producción va al extranjero. Precios directos de fábrica, Alibaba Trade Assurance y coordinación de envío — sin intermediarios."
+      },
+      "cta": {
+        "en": "Request quote",
+        "zh": "立即询价",
+        "de": "Angebot Anfordern",
+        "es": "Solicitar Cotización"
+      },
+      "link": "#contact"
+    },
+    {
+      "icon": "⚡",
+      "title": {
+        "en": "≤4 Hour Response",
+        "zh": "≤4 小时响应",
+        "de": "≤4-Stunden-Antwortzeit",
+        "es": "Respuesta ≤4 Horas"
+      },
+      "desc": {
+        "en": "Quick technical replies during Asia business hours. English-speaking engineers ready to discuss tolerances, materials, and tooling.",
+        "zh": "亚洲工作时间快速技术回复。英语工程师团队随时讨论公差、材料和模具方案。",
+        "de": "Schnelle technische Antworten während der asiatischen Geschäftszeiten. Englischsprachige Ingenieure bereit für Toleranzen, Materialien und Werkzeuge.",
+        "es": "Respuestas técnicas rápidas durante el horario comercial asiático. Ingenieros de habla inglesa listos para discutir tolerancias, materiales y herramientas."
+      },
+      "cta": {
+        "en": "Email us",
+        "zh": "邮件联系",
+        "de": "E-Mail Senden",
+        "es": "Envíenos un Email"
+      },
+      "link": "#contact"
+    },
+    {
+      "icon": "🌐",
+      "title": {
+        "en": "Global Exhibition Track Record",
+        "zh": "全球展会参展记录",
+        "de": "Globale Messepräsenz",
+        "es": "Historial de Exposiciones Globales"
+      },
+      "desc": {
+        "en": "Active at international machinery exhibitions including FEIMEC Brazil (May 2024). Meet us at upcoming trade fairs.",
+        "zh": "积极参加国际机械展览，包括巴西 FEIMEC（2024 年 5 月）。期待在下届展会上与您面对面。",
+        "de": "Aktiv auf internationalen Maschinenausstellungen einschließlich FEIMEC Brasilien (Mai 2024). Treffen Sie uns auf kommenden Fachmessen.",
+        "es": "Activo en exhibiciones internacionales de maquinaria incluyendo FEIMEC Brasil (Mayo 2024). Encuéntrenos en próximas ferias comerciales."
+      },
+      "cta": {
+        "en": "See our credentials",
+        "zh": "查看资质",
+        "de": "Unsere Referenzen",
+        "es": "Ver Credenciales"
+      },
+      "link": "#certs"
+    }
+  ],
+  "catsTitle": {
+    "en": "Three Core Product Lines",
+    "zh": "三大核心产品线",
+    "de": "Drei Kernproduktlinien",
+    "es": "Tres Líneas Principales de Productos"
+  },
+  "catsSub": {
+    "en": "Hydraulic seals, pneumatic seals, and custom-molded sealing solutions — covering every standard size and most non-standard requirements.",
+    "zh": "液压密封件、气动密封件、定制开模密封解决方案——覆盖所有标准规格及多数非标需求。",
+    "de": "Hydraulikdichtungen, Pneumatikdichtungen und kundenspezifische geformte Dichtungslösungen — für jede Standardgröße und die meisten Sonderanforderungen.",
+    "es": "Sellos hidráulicos, sellos neumáticos y soluciones de sellado moldeadas personalizadas — cubriendo todos los tamaños estándar y la mayoría de requisitos no estándar."
+  },
+  "cats": [
+    {
+      "img": "products/p01.jpg",
+      "title": {
+        "en": "Hydraulic Seals",
+        "zh": "液压密封件",
+        "de": "Hydraulikdichtungen",
+        "es": "Sellos Hidráulicos"
+      },
+      "sub": {
+        "en": "Piston, rod, buffer, and wiper seals for hydraulic cylinders. PU/PTFE/NBR materials.",
+        "zh": "用于液压油缸的活塞、活塞杆、缓冲和防尘密封圈。PU/PTFE/NBR 材料。",
+        "de": "Kolben-, Kolbenstangen-, Puffer- und Abstreifringe für Hydraulikzylinder. PU/PTFE/NBR-Materialien.",
+        "es": "Sellos de pistón, vástago, buffer y limpiador para cilindros hidráulicos. Materiales PU/PTFE/NBR."
+      },
+      "searchKey": "hydraulic"
+    },
+    {
+      "img": "products/p17.jpg",
+      "title": {
+        "en": "Pneumatic Seals",
+        "zh": "气动密封件",
+        "de": "Pneumatikdichtungen",
+        "es": "Sellos Neumáticos"
+      },
+      "sub": {
+        "en": "EU pneumatic cylinder seals, all standard sizes available with rubber and PU compounds.",
+        "zh": "EU 气缸密封件，全标准规格，橡胶和 PU 复合材料。",
+        "de": "EU-Pneumatikzylinderdichtungen, alle Standardgrößen verfügbar mit Gummi- und PU-Verbindungen.",
+        "es": "Sellos de cilindros neumáticos EU, todos los tamaños estándar disponibles con compuestos de caucho y PU."
+      },
+      "searchKey": "pneumatic"
+    },
+    {
+      "img": "products/p29.jpg",
+      "title": {
+        "en": "OEM Custom Molds",
+        "zh": "OEM 定制开模",
+        "de": "OEM Sonderformen",
+        "es": "Moldes OEM Personalizados"
+      },
+      "sub": {
+        "en": "Send your drawings — we develop custom tooling for non-standard seals, couplings, and wear components.",
+        "zh": "发送您的图纸——我们为非标密封件、联轴器和耐磨部件开发定制模具。",
+        "de": "Senden Sie Ihre Zeichnungen — wir entwickeln kundenspezifische Werkzeuge für Sonderdichtungen, Kupplungen und Verschleißteile.",
+        "es": "Envíe sus planos — desarrollamos herramientas personalizadas para sellos no estándar, acoplamientos y componentes de desgaste."
+      },
+      "searchKey": "custom"
+    }
+  ],
+  "partnersTitle": {
+    "en": "Industries We Serve",
+    "zh": "我们服务的行业",
+    "de": "Unsere Branchen",
+    "es": "Industrias que Servimos"
+  },
+  "partnersSub": {
+    "en": "From construction machinery to industrial automation — our seals power equipment in dozens of vertical markets worldwide.",
+    "zh": "从工程机械到工业自动化——我们的密封件为全球数十个垂直市场的设备提供动力。",
+    "de": "Von Baumaschinen bis zur industriellen Automatisierung — unsere Dichtungen treiben Geräte in Dutzenden vertikaler Märkte weltweit an.",
+    "es": "Desde maquinaria de construcción hasta automatización industrial — nuestros sellos impulsan equipos en docenas de mercados verticales en todo el mundo."
+  },
+  "partners": [
+    {
+      "name": {
+        "en": "Construction Equipment",
+        "zh": "工程机械",
+        "de": "Baumaschinen",
+        "es": "Equipos de Construcción"
+      },
+      "icon": "🏗️",
+      "color": "#0A4A8C"
+    },
+    {
+      "name": {
+        "en": "Agricultural Machinery",
+        "zh": "农业机械",
+        "de": "Landmaschinen",
+        "es": "Maquinaria Agrícola"
+      },
+      "icon": "🚜",
+      "color": "#0A4A8C"
+    },
+    {
+      "name": {
+        "en": "Industrial Automation",
+        "zh": "工业自动化",
+        "de": "Industrieautomation",
+        "es": "Automatización Industrial"
+      },
+      "icon": "⚙️",
+      "color": "#0A4A8C"
+    },
+    {
+      "name": {
+        "en": "Mining & Heavy Duty",
+        "zh": "矿山重型",
+        "de": "Bergbau & Schwerlast",
+        "es": "Minería & Trabajo Pesado"
+      },
+      "icon": "⛏️",
+      "color": "#0A4A8C"
+    },
+    {
+      "name": {
+        "en": "Hydraulic OEMs",
+        "zh": "液压 OEM 厂",
+        "de": "Hydraulik-OEMs",
+        "es": "OEMs Hidráulicos"
+      },
+      "icon": "🔧",
+      "color": "#0A4A8C"
+    },
+    {
+      "name": {
+        "en": "Aftermarket Distributors",
+        "zh": "售后市场分销商",
+        "de": "Aftermarket-Distributoren",
+        "es": "Distribuidores Aftermarket"
+      },
+      "icon": "📦",
+      "color": "#0A4A8C"
+    }
+  ],
+  "regionsTitle": {
+    "en": "Trusted Across Continents",
+    "zh": "全球各地深受信赖",
+    "de": "Vertraut auf Allen Kontinenten",
+    "es": "Confianza en Todos los Continentes"
+  },
+  "regionsSub": {
+    "en": "Our seals reach buyers in North America, Europe, Latin America, and the Middle East. New regional distributor inquiries welcome.",
+    "zh": "我们的密封件销往北美、欧洲、拉丁美洲和中东买家。诚邀新区域经销商合作。",
+    "de": "Unsere Dichtungen erreichen Käufer in Nordamerika, Europa, Lateinamerika und im Nahen Osten. Anfragen neuer regionaler Distributoren willkommen.",
+    "es": "Nuestros sellos llegan a compradores en Norteamérica, Europa, Latinoamérica y Oriente Medio. Bienvenidas consultas de nuevos distribuidores regionales."
+  },
+  "regions": [
+    {
+      "flag": "🌎",
+      "name": {
+        "en": "Americas",
+        "zh": "美洲",
+        "de": "Amerika",
+        "es": "Américas"
+      },
+      "sub": {
+        "en": "USA · Canada · Brazil · Mexico",
+        "zh": "美国 · 加拿大 · 巴西 · 墨西哥",
+        "de": "USA · Kanada · Brasilien · Mexiko",
+        "es": "EE.UU. · Canadá · Brasil · México"
+      }
+    },
+    {
+      "flag": "🇪🇺",
+      "name": {
+        "en": "Europe",
+        "zh": "欧洲",
+        "de": "Europa",
+        "es": "Europa"
+      },
+      "sub": {
+        "en": "Germany · Italy · UK · Spain",
+        "zh": "德国 · 意大利 · 英国 · 西班牙",
+        "de": "Deutschland · Italien · UK · Spanien",
+        "es": "Alemania · Italia · UK · España"
+      }
+    },
+    {
+      "flag": "🌏",
+      "name": {
+        "en": "Asia Pacific",
+        "zh": "亚太地区",
+        "de": "Asien-Pazifik",
+        "es": "Asia Pacífico"
+      },
+      "sub": {
+        "en": "India · Japan · Korea · ASEAN",
+        "zh": "印度 · 日本 · 韩国 · 东盟",
+        "de": "Indien · Japan · Korea · ASEAN",
+        "es": "India · Japón · Corea · ASEAN"
+      }
+    },
+    {
+      "flag": "🌍",
+      "name": {
+        "en": "Middle East & Africa",
+        "zh": "中东与非洲",
+        "de": "Naher Osten & Afrika",
+        "es": "Medio Oriente & África"
+      },
+      "sub": {
+        "en": "UAE · Saudi Arabia · Türkiye · Egypt",
+        "zh": "阿联酋 · 沙特 · 土耳其 · 埃及",
+        "de": "VAE · Saudi-Arabien · Türkei · Ägypten",
+        "es": "EAU · Arabia Saudí · Türkiye · Egipto"
+      }
+    }
+  ],
+  "certsTitle": {
+    "en": "Credentials & Certifications",
+    "zh": "资质与认证",
+    "de": "Referenzen & Zertifikate",
+    "es": "Credenciales y Certificaciones"
+  },
+  "certs": [
+    {
+      "title": {
+        "en": "Alibaba Verified Supplier",
+        "zh": "阿里巴巴认证供应商",
+        "de": "Alibaba Verifizierter Lieferant",
+        "es": "Proveedor Verificado Alibaba"
+      },
+      "desc": {
+        "en": "Verified by Alibaba.com with on-site assessment. Gold Supplier 1st Year.",
+        "zh": "经阿里巴巴现场核验的认证供应商，金牌供应商第 1 年。",
+        "de": "Verifiziert von Alibaba.com mit Vor-Ort-Bewertung. Gold-Lieferant im 1. Jahr.",
+        "es": "Verificado por Alibaba.com con evaluación in situ. Proveedor Gold 1er año."
+      },
+      "image": "",
+      "verifyUrl": "https://shineseal.en.alibaba.com/",
+      "verifyLabel": {
+        "en": "View on Alibaba",
+        "zh": "在阿里查看",
+        "de": "Auf Alibaba Ansehen",
+        "es": "Ver en Alibaba"
+      }
+    },
+    {
+      "title": {
+        "en": "ISO 9001 Quality System",
+        "zh": "ISO 9001 质量体系",
+        "de": "ISO 9001 Qualitätssystem",
+        "es": "Sistema de Calidad ISO 9001"
+      },
+      "desc": {
+        "en": "Our manufacturing process complies with ISO 9001 quality management standards. Internal QC at every stage.",
+        "zh": "我们的制造流程符合 ISO 9001 质量管理体系。每个环节均设内部 QC。",
+        "de": "Unser Fertigungsprozess entspricht den ISO 9001 Qualitätsmanagementstandards. Interne QK in jeder Phase.",
+        "es": "Nuestro proceso de fabricación cumple con los estándares de gestión de calidad ISO 9001. Control de calidad interno en cada etapa."
+      },
+      "image": "",
+      "verifyUrl": "",
+      "verifyLabel": {
+        "en": "Certificate on file",
+        "zh": "证书存档",
+        "de": "Zertifikat verfügbar",
+        "es": "Certificado archivado"
+      }
+    },
+    {
+      "title": {
+        "en": "Alibaba Trade Assurance",
+        "zh": "阿里巴巴贸易保障",
+        "de": "Alibaba Trade Assurance",
+        "es": "Alibaba Trade Assurance"
+      },
+      "desc": {
+        "en": "All orders placed on Alibaba.com are protected by Trade Assurance — money-back guarantee for order quality and timely shipping.",
+        "zh": "所有通过阿里巴巴下单订单均受贸易保障——保障订单质量和准时发货。",
+        "de": "Alle auf Alibaba.com aufgegebenen Bestellungen werden durch Trade Assurance geschützt — Geld-zurück-Garantie für Bestellqualität und pünktlichen Versand.",
+        "es": "Todos los pedidos realizados en Alibaba.com están protegidos por Trade Assurance — garantía de devolución de dinero por calidad del pedido y envío puntual."
+      },
+      "image": "",
+      "verifyUrl": "https://shineseal.en.alibaba.com/",
+      "verifyLabel": {
+        "en": "Learn more",
+        "zh": "了解详情",
+        "de": "Mehr Erfahren",
+        "es": "Saber Más"
+      }
+    },
+    {
+      "title": {
+        "en": "FEIMEC 2024 Brazil Exhibitor",
+        "zh": "FEIMEC 2024 巴西展会参展商",
+        "de": "FEIMEC 2024 Brasilien Aussteller",
+        "es": "Expositor FEIMEC 2024 Brasil"
+      },
+      "desc": {
+        "en": "Participated in International Machinery and Machine Tools Exhibition (FEIMEC) in Sao Paulo, Brazil, May 2024.",
+        "zh": "参加 2024 年 5 月巴西圣保罗国际机械与机床展览会（FEIMEC）。",
+        "de": "Teilnahme an der International Machinery and Machine Tools Exhibition (FEIMEC) in São Paulo, Brasilien, Mai 2024.",
+        "es": "Participó en la Exhibición Internacional de Maquinaria y Máquinas Herramienta (FEIMEC) en São Paulo, Brasil, Mayo 2024."
+      },
+      "image": "",
+      "verifyUrl": "",
+      "verifyLabel": {
+        "en": "Photos available on request",
+        "zh": "可提供现场照片",
+        "de": "Fotos auf Anfrage",
+        "es": "Fotos disponibles a solicitud"
+      }
+    },
+    {
+      "title": {
+        "en": "100% On-Time Delivery",
+        "zh": "100% 准时发货",
+        "de": "100% Pünktliche Lieferung",
+        "es": "Entrega 100% Puntual"
+      },
+      "desc": {
+        "en": "Verified on-time delivery rate of 100% for orders shipped through Alibaba.com platform.",
+        "zh": "通过阿里巴巴平台发货的订单准时发货率 100%。",
+        "de": "Verifizierte pünktliche Lieferquote von 100% für über Alibaba.com versandte Bestellungen.",
+        "es": "Tasa de entrega puntual verificada del 100% para pedidos enviados a través de la plataforma Alibaba.com."
+      },
+      "image": "",
+      "verifyUrl": "https://shineseal.en.alibaba.com/",
+      "verifyLabel": {
+        "en": "View track record",
+        "zh": "查看记录",
+        "de": "Erfolgsbilanz Ansehen",
+        "es": "Ver Historial"
+      }
+    },
+    {
+      "title": {
+        "en": "≤4 Hour Response Commitment",
+        "zh": "≤4 小时响应承诺",
+        "de": "≤4-Stunden-Antwortzeit",
+        "es": "Compromiso de Respuesta ≤4 Horas"
+      },
+      "desc": {
+        "en": "Tracked average inquiry response time of ≤4 hours during Asia business hours. English-speaking technical sales team.",
+        "zh": "亚洲工作时间询盘平均响应时间 ≤4 小时。英语技术销售团队。",
+        "de": "Verfolgte durchschnittliche Anfrage-Antwortzeit von ≤4 Stunden während asiatischer Geschäftszeiten. Englischsprachiges Vertriebsteam.",
+        "es": "Tiempo medio de respuesta a consultas seguido de ≤4 horas durante el horario comercial asiático. Equipo de ventas técnico de habla inglesa."
+      },
+      "image": "",
+      "verifyUrl": "",
+      "verifyLabel": {
+        "en": "Standard SLA",
+        "zh": "标准 SLA",
+        "de": "Standard-SLA",
+        "es": "SLA Estándar"
+      }
+    }
+  ],
+  "ui": {
+    "navHome": {
+      "en": "Home",
+      "zh": "首页",
+      "de": "Startseite",
+      "es": "Inicio"
+    },
+    "navCerts": {
+      "en": "Credentials",
+      "zh": "认证资质",
+      "de": "Referenzen",
+      "es": "Credenciales"
+    },
+    "navCatalog": {
+      "en": "Product Catalog",
+      "zh": "产品目录",
+      "de": "Produktkatalog",
+      "es": "Catálogo de Productos"
+    },
+    "navPartners": {
+      "en": "Industries",
+      "zh": "服务行业",
+      "de": "Branchen",
+      "es": "Industrias"
+    },
+    "navStaff": {
+      "en": "Intel & Persona",
+      "zh": "客户情报",
+      "de": "Kundeninfos",
+      "es": "Inteligencia Cliente"
+    },
+    "navSop": {
+      "en": "Scripts & SOP",
+      "zh": "话术与流程",
+      "de": "Skripte & SOP",
+      "es": "Scripts y SOP"
+    },
+    "ctaContact": {
+      "en": "Contact Sales",
+      "zh": "联系销售",
+      "de": "Vertrieb Kontaktieren",
+      "es": "Contactar Ventas"
+    },
+    "ctaCatalog": {
+      "en": "Browse Catalog",
+      "zh": "浏览目录",
+      "de": "Katalog Durchsuchen",
+      "es": "Ver Catálogo"
+    },
+    "ctaInquire": {
+      "en": "Request Quote",
+      "zh": "立即询价",
+      "de": "Angebot Anfordern",
+      "es": "Solicitar Cotización"
+    },
+    "catalogEyebrow": {
+      "en": "CATALOG",
+      "zh": "产品目录",
+      "de": "KATALOG",
+      "es": "CATÁLOGO"
+    },
+    "catalogPageTitle": {
+      "en": "Product Catalog",
+      "zh": "产品目录",
+      "de": "Produktkatalog",
+      "es": "Catálogo de Productos"
+    },
+    "catalogSearchHint": {
+      "en": "Search by name, SKU or model...",
+      "zh": "按名称、SKU 或型号搜索...",
+      "de": "Suche nach Name, SKU oder Modell...",
+      "es": "Buscar por nombre, SKU o modelo..."
+    },
+    "filterAll": {
+      "en": "All Categories",
+      "zh": "全部分类",
+      "de": "Alle Kategorien",
+      "es": "Todas las Categorías"
+    },
+    "filterHydraulic": {
+      "en": "Hydraulic Seals",
+      "zh": "液压密封件",
+      "de": "Hydraulikdichtungen",
+      "es": "Sellos Hidráulicos"
+    },
+    "filterPneumatic": {
+      "en": "Pneumatic Seals",
+      "zh": "气动密封件",
+      "de": "Pneumatikdichtungen",
+      "es": "Sellos Neumáticos"
+    },
+    "filterWiper": {
+      "en": "Wiper / Buffer Seals",
+      "zh": "防尘 / 缓冲圈",
+      "de": "Abstreifer / Pufferringe",
+      "es": "Limpiadores / Buffers"
+    },
+    "filterORing": {
+      "en": "O-Rings & Wear Rings",
+      "zh": "O型圈 / 导向带",
+      "de": "O-Ringe & Führungsringe",
+      "es": "O-Rings y Anillos de Guía"
+    },
+    "filterCustom": {
+      "en": "OEM Custom Molds",
+      "zh": "OEM 定制开模",
+      "de": "OEM Sonderformen",
+      "es": "Moldes OEM"
+    },
+    "backHome": {
+      "en": "← Back to Home",
+      "zh": "← 返回首页",
+      "de": "← Zurück zur Startseite",
+      "es": "← Volver al Inicio"
+    },
+    "eyebrowWhy": {
+      "en": "WHY US",
+      "zh": "为何选我们",
+      "de": "WARUM WIR",
+      "es": "POR QUÉ NOSOTROS"
+    }
+  },
+  "footer": {
+    "contact": {
+      "en": "Contact",
+      "zh": "联系我们",
+      "de": "Kontakt",
+      "es": "Contacto"
+    },
+    "address": {
+      "en": "Address",
+      "zh": "工厂地址",
+      "de": "Adresse",
+      "es": "Dirección"
+    },
+    "capabilities": {
+      "en": "Capabilities",
+      "zh": "核心能力",
+      "de": "Kompetenzen",
+      "es": "Capacidades"
+    },
+    "rights": {
+      "en": "All rights reserved.",
+      "zh": "保留所有权利。",
+      "de": "Alle Rechte vorbehalten.",
+      "es": "Todos los derechos reservados."
+    }
+  },
+  "products": [
+    {
+      "id": "shs-dkb-01",
+      "sku": "SHS-DKB-01",
+      "name": {
+        "en": "DKB Steel Wiper Seal Hydraulic Seal NBR 80 Shore A Open Groove Cylinder Seal Temperature -35 to +105",
+        "zh": "DKB 防尘密封圈",
+        "de": "DKB Steel Wiper Seal Hydraulic Seal NBR 80 Shore A Open Groove Cylinder Seal Temperature -35 to +105",
+        "es": "DKB Steel Wiper Seal Hydraulic Seal NBR 80 Shore A Open Groove Cylinder Seal Temperature -35 to +105"
+      },
+      "price": "US$1",
+      "moq": "100 pieces",
+      "category": "wiper",
+      "images": [
+        "products/p01.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Wiper"
+        },
+        {
+          "k": {
+            "en": "Material",
+            "zh": "材质",
+            "de": "Material",
+            "es": "Material"
+          },
+          "v": "NBR"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-va-02",
+      "sku": "SHS-VA-02",
+      "name": {
+        "en": "VA Water NBR Cylinder Seal All Standard Sizes Made in China Zhejiang",
+        "zh": "VA 液压密封件",
+        "de": "VA Water NBR Cylinder Seal All Standard Sizes Made in China Zhejiang",
+        "es": "VA Water NBR Cylinder Seal All Standard Sizes Made in China Zhejiang"
+      },
+      "price": "US$1",
+      "moq": "100 pieces",
+      "category": "hydraulic",
+      "images": [
+        "products/p02.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Hydraulic"
+        },
+        {
+          "k": {
+            "en": "Material",
+            "zh": "材质",
+            "de": "Material",
+            "es": "Material"
+          },
+          "v": "NBR"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-seal-03",
+      "sku": "SHS-SEAL-03",
+      "name": {
+        "en": "No Brand WR Phenolic with Fabric Wear Ring Cylinder Seal Wiper All Standard Sizes",
+        "zh": "防尘密封圈",
+        "de": "No Brand WR Phenolic with Fabric Wear Ring Cylinder Seal Wiper All Standard Sizes",
+        "es": "No Brand WR Phenolic with Fabric Wear Ring Cylinder Seal Wiper All Standard Sizes"
+      },
+      "price": "US$1",
+      "moq": "100 pieces",
+      "category": "wiper",
+      "images": [
+        "products/p03.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Wiper"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-bbt-04",
+      "sku": "SHS-BBT-04",
+      "name": {
+        "en": "BBT Rod Seal Backup-Hydraulic Seal PTFE Filled 40% Bronze High Pressure Temperature Resistant (-45 +160) Mineral Hydraulic",
+        "zh": "BBT 活塞杆密封圈",
+        "de": "BBT Rod Seal Backup-Hydraulic Seal PTFE Filled 40% Bronze High Pressure Temperature Resistant (-45 +160) Mineral Hydraulic",
+        "es": "BBT Rod Seal Backup-Hydraulic Seal PTFE Filled 40% Bronze High Pressure Temperature Resistant (-45 +160) Mineral Hydraulic"
+      },
+      "price": "US$3",
+      "moq": "100 bags",
+      "category": "hydraulic",
+      "images": [
+        "products/p04.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Hydraulic"
+        },
+        {
+          "k": {
+            "en": "Material",
+            "zh": "材质",
+            "de": "Material",
+            "es": "Material"
+          },
+          "v": "PTFE"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-ok-05",
+      "sku": "SHS-OK-05",
+      "name": {
+        "en": "OK Heavy Duty Oil Piston Seal Hydraulic Cylinder Seal Nylon <800 Bar Pressure -30 to +110 All Standard Sizes",
+        "zh": "OK 活塞密封圈",
+        "de": "OK Heavy Duty Oil Piston Seal Hydraulic Cylinder Seal Nylon <800 Bar Pressure -30 to +110 All Standard Sizes",
+        "es": "OK Heavy Duty Oil Piston Seal Hydraulic Cylinder Seal Nylon <800 Bar Pressure -30 to +110 All Standard Sizes"
+      },
+      "price": "US$1-1.50",
+      "moq": "100 pieces",
+      "category": "hydraulic",
+      "images": [
+        "products/p05.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Hydraulic"
+        },
+        {
+          "k": {
+            "en": "Material",
+            "zh": "材质",
+            "de": "Material",
+            "es": "Material"
+          },
+          "v": "Nylon"
+        },
+        {
+          "k": {
+            "en": "Max Pressure",
+            "zh": "最大压力",
+            "de": "Max. Druck",
+            "es": "Presión Máx"
+          },
+          "v": "800 Bar"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-hby-06",
+      "sku": "SHS-HBY-06",
+      "name": {
+        "en": "HBY Rod Buffer Seal Hydraulic Seal PU Seal Cylinder Seal Pressure <400 Bar Temperature -35 +100 Polyurethane 93 Shore Speed <0.5",
+        "zh": "HBY 缓冲密封圈",
+        "de": "HBY Rod Buffer Seal Hydraulic Seal PU Seal Cylinder Seal Pressure <400 Bar Temperature -35 +100 Polyurethane 93 Shore Speed <0.5",
+        "es": "HBY Rod Buffer Seal Hydraulic Seal PU Seal Cylinder Seal Pressure <400 Bar Temperature -35 +100 Polyurethane 93 Shore Speed <0.5"
+      },
+      "price": "US$1",
+      "moq": "500 pieces",
+      "category": "wiper",
+      "images": [
+        "products/p06.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Wiper"
+        },
+        {
+          "k": {
+            "en": "Material",
+            "zh": "材质",
+            "de": "Material",
+            "es": "Material"
+          },
+          "v": "PU"
+        },
+        {
+          "k": {
+            "en": "Max Pressure",
+            "zh": "最大压力",
+            "de": "Max. Druck",
+            "es": "Presión Máx"
+          },
+          "v": "400 Bar"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-ay-07",
+      "sku": "SHS-AY-07",
+      "name": {
+        "en": "AY Double Lip Wiper PU Hydraulic Seal All Standard Sizes",
+        "zh": "AY 防尘密封圈",
+        "de": "AY Double Lip Wiper PU Hydraulic Seal All Standard Sizes",
+        "es": "AY Double Lip Wiper PU Hydraulic Seal All Standard Sizes"
+      },
+      "price": "US$0.29-0.55",
+      "moq": "100 pieces",
+      "category": "wiper",
+      "images": [
+        "products/p07.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Wiper"
+        },
+        {
+          "k": {
+            "en": "Material",
+            "zh": "材质",
+            "de": "Material",
+            "es": "Material"
+          },
+          "v": "PU"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-ga-08",
+      "sku": "SHS-GA-08",
+      "name": {
+        "en": "GA Steel Wiper Seal Hydraulic & Cylinder Seal NBR 80 Shore a Temperature -35 to +105 Speed <1 m/s All Standard Sizes Open Groove",
+        "zh": "GA 防尘密封圈",
+        "de": "GA Steel Wiper Seal Hydraulic & Cylinder Seal NBR 80 Shore a Temperature -35 to +105 Speed <1 m/s All Standard Sizes Open Groove",
+        "es": "GA Steel Wiper Seal Hydraulic & Cylinder Seal NBR 80 Shore a Temperature -35 to +105 Speed <1 m/s All Standard Sizes Open Groove"
+      },
+      "price": "US$1",
+      "moq": "100 pieces",
+      "category": "wiper",
+      "images": [
+        "products/p08.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Wiper"
+        },
+        {
+          "k": {
+            "en": "Material",
+            "zh": "材质",
+            "de": "Material",
+            "es": "Material"
+          },
+          "v": "NBR"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-bsfp-09",
+      "sku": "SHS-BSFP-09",
+      "name": {
+        "en": "BSFP Hydraulic Cylinder Piston Seal Polyurethane 60D Material < 500 Bar Pressure -35 +120 Temperature O-ring Energizer All",
+        "zh": "BSFP 活塞密封圈",
+        "de": "BSFP Hydraulic Cylinder Piston Seal Polyurethane 60D Material < 500 Bar Pressure -35 +120 Temperature O-ring Energizer All",
+        "es": "BSFP Hydraulic Cylinder Piston Seal Polyurethane 60D Material < 500 Bar Pressure -35 +120 Temperature O-ring Energizer All"
+      },
+      "price": "US$1.60",
+      "moq": "100 pieces",
+      "category": "oring",
+      "images": [
+        "products/p09.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Oring"
+        },
+        {
+          "k": {
+            "en": "Material",
+            "zh": "材质",
+            "de": "Material",
+            "es": "Material"
+          },
+          "v": "Polyurethane"
+        },
+        {
+          "k": {
+            "en": "Temperature Range",
+            "zh": "温度范围",
+            "de": "Temperatur",
+            "es": "Temperatura"
+          },
+          "v": "-35 +120°C"
+        },
+        {
+          "k": {
+            "en": "Max Pressure",
+            "zh": "最大压力",
+            "de": "Max. Druck",
+            "es": "Presión Máx"
+          },
+          "v": "500 Bar"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-bsj-10",
+      "sku": "SHS-BSJ-10",
+      "name": {
+        "en": "BSJ Rod Buffer Seal Hydraulic PTFE Filled Bronze/NBR Material <600 Bar Pressure Rated -35 +100 Temperature <15 m/s Speed",
+        "zh": "BSJ 缓冲密封圈",
+        "de": "BSJ Rod Buffer Seal Hydraulic PTFE Filled Bronze/NBR Material <600 Bar Pressure Rated -35 +100 Temperature <15 m/s Speed",
+        "es": "BSJ Rod Buffer Seal Hydraulic PTFE Filled Bronze/NBR Material <600 Bar Pressure Rated -35 +100 Temperature <15 m/s Speed"
+      },
+      "price": "US$1",
+      "moq": "100 pieces",
+      "category": "wiper",
+      "images": [
+        "products/p10.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Wiper"
+        },
+        {
+          "k": {
+            "en": "Material",
+            "zh": "材质",
+            "de": "Material",
+            "es": "Material"
+          },
+          "v": "PTFE"
+        },
+        {
+          "k": {
+            "en": "Temperature Range",
+            "zh": "温度范围",
+            "de": "Temperatur",
+            "es": "Temperatura"
+          },
+          "v": "-35 +100°C"
+        },
+        {
+          "k": {
+            "en": "Max Pressure",
+            "zh": "最大压力",
+            "de": "Max. Druck",
+            "es": "Presión Máx"
+          },
+          "v": "600 Bar"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-n4w-11",
+      "sku": "SHS-N4W-11",
+      "name": {
+        "en": "N4W Buffer Gasket Seal Hydraulic Cylinder Seal Nylon/POM All Standard Sizes Made in China (ZHE)",
+        "zh": "N4W 缓冲密封圈",
+        "de": "N4W Buffer Gasket Seal Hydraulic Cylinder Seal Nylon/POM All Standard Sizes Made in China (ZHE)",
+        "es": "N4W Buffer Gasket Seal Hydraulic Cylinder Seal Nylon/POM All Standard Sizes Made in China (ZHE)"
+      },
+      "price": "US$1",
+      "moq": "100 pieces",
+      "category": "wiper",
+      "images": [
+        "products/p11.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Wiper"
+        },
+        {
+          "k": {
+            "en": "Material",
+            "zh": "材质",
+            "de": "Material",
+            "es": "Material"
+          },
+          "v": "Nylon"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-sa-12",
+      "sku": "SHS-SA-12",
+      "name": {
+        "en": "SA Static Hydraulic PU Seal Cylinder Application All Standard Sizes China Origin",
+        "zh": "SA 液压密封件",
+        "de": "SA Static Hydraulic PU Seal Cylinder Application All Standard Sizes China Origin",
+        "es": "SA Static Hydraulic PU Seal Cylinder Application All Standard Sizes China Origin"
+      },
+      "price": "US$1",
+      "moq": "100 pieces",
+      "category": "hydraulic",
+      "images": [
+        "products/p12.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Hydraulic"
+        },
+        {
+          "k": {
+            "en": "Material",
+            "zh": "材质",
+            "de": "Material",
+            "es": "Material"
+          },
+          "v": "PU"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-kdas-13",
+      "sku": "SHS-KDAS-13",
+      "name": {
+        "en": "KDAS Hydraulic Compact Piston Seal NBR+POM Material 30Mpa Pressure -45~+110 Temperature Range ISO9001 Certified Oil Seal",
+        "zh": "KDAS 活塞密封圈",
+        "de": "KDAS Hydraulic Compact Piston Seal NBR+POM Material 30Mpa Pressure -45~+110 Temperature Range ISO9001 Certified Oil Seal",
+        "es": "KDAS Hydraulic Compact Piston Seal NBR+POM Material 30Mpa Pressure -45~+110 Temperature Range ISO9001 Certified Oil Seal"
+      },
+      "price": "US$5.80-6",
+      "moq": "500 pieces",
+      "category": "hydraulic",
+      "images": [
+        "products/p13.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Hydraulic"
+        },
+        {
+          "k": {
+            "en": "Material",
+            "zh": "材质",
+            "de": "Material",
+            "es": "Material"
+          },
+          "v": "NBR"
+        },
+        {
+          "k": {
+            "en": "Temperature Range",
+            "zh": "温度范围",
+            "de": "Temperatur",
+            "es": "Temperatura"
+          },
+          "v": "110°C"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-wr-14",
+      "sku": "SHS-WR-14",
+      "name": {
+        "en": "WR-Phenolic Fabric Wiper for Cylinder Seal All Standard Sizes Made in China No Brand",
+        "zh": "防尘密封圈",
+        "de": "WR-Phenolic Fabric Wiper for Cylinder Seal All Standard Sizes Made in China No Brand",
+        "es": "WR-Phenolic Fabric Wiper for Cylinder Seal All Standard Sizes Made in China No Brand"
+      },
+      "price": "US$1",
+      "moq": "10 pieces",
+      "category": "wiper",
+      "images": [
+        "products/p14.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Wiper"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-wr-15",
+      "sku": "SHS-WR-15",
+      "name": {
+        "en": "WR POM Wear Ring for Cylinder Seal Wiper All Standard Sizes",
+        "zh": "WR 防尘密封圈",
+        "de": "WR POM Wear Ring for Cylinder Seal Wiper All Standard Sizes",
+        "es": "WR POM Wear Ring for Cylinder Seal Wiper All Standard Sizes"
+      },
+      "price": "US$0.89-1",
+      "moq": "100 pieces",
+      "category": "wiper",
+      "images": [
+        "products/p15.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Wiper"
+        },
+        {
+          "k": {
+            "en": "Material",
+            "zh": "材质",
+            "de": "Material",
+            "es": "Material"
+          },
+          "v": "POM"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-bbt-16",
+      "sku": "SHS-BBT-16",
+      "name": {
+        "en": "BBT Rod Seal Backup-Hydraulic & PTFE Seal All Standard Sizes",
+        "zh": "BBT 活塞杆密封圈",
+        "de": "BBT Rod Seal Backup-Hydraulic & PTFE Seal All Standard Sizes",
+        "es": "BBT Rod Seal Backup-Hydraulic & PTFE Seal All Standard Sizes"
+      },
+      "price": "US$1",
+      "moq": "100 pieces",
+      "category": "hydraulic",
+      "images": [
+        "products/p16.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Hydraulic"
+        },
+        {
+          "k": {
+            "en": "Material",
+            "zh": "材质",
+            "de": "Material",
+            "es": "Material"
+          },
+          "v": "PTFE"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-eu-17",
+      "sku": "SHS-EU-17",
+      "name": {
+        "en": "EU Cylinder Pneumatic Seal All Standard Sizes",
+        "zh": "EU 气动密封件",
+        "de": "EU Cylinder Pneumatic Seal All Standard Sizes",
+        "es": "EU Cylinder Pneumatic Seal All Standard Sizes"
+      },
+      "price": "US$1+",
+      "moq": "100 pieces",
+      "category": "pneumatic",
+      "images": [
+        "products/p17.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Pneumatic"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-hbst-18",
+      "sku": "SHS-HBST-18",
+      "name": {
+        "en": "HBST Guider Strips Guider Tape Cylinder Seal All Standard Sizes Made in China Zhejiang",
+        "zh": "HBST 导向带",
+        "de": "HBST Guider Strips Guider Tape Cylinder Seal All Standard Sizes Made in China Zhejiang",
+        "es": "HBST Guider Strips Guider Tape Cylinder Seal All Standard Sizes Made in China Zhejiang"
+      },
+      "price": "US$1+",
+      "moq": "100 pieces",
+      "category": "oring",
+      "images": [
+        "products/p18.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Oring"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-bsfp-19",
+      "sku": "SHS-BSFP-19",
+      "name": {
+        "en": "BSFP Piston Seal Cylinder Seal Polyurethane 60D Material <500 bar pressure -35 +120 Temperature <0.5 m/s",
+        "zh": "BSFP 活塞密封圈",
+        "de": "BSFP Piston Seal Cylinder Seal Polyurethane 60D Material <500 bar pressure -35 +120 Temperature <0.5 m/s",
+        "es": "BSFP Piston Seal Cylinder Seal Polyurethane 60D Material <500 bar pressure -35 +120 Temperature <0.5 m/s"
+      },
+      "price": "US$1+",
+      "moq": "100 pieces",
+      "category": "hydraulic",
+      "images": [
+        "products/p19.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Hydraulic"
+        },
+        {
+          "k": {
+            "en": "Material",
+            "zh": "材质",
+            "de": "Material",
+            "es": "Material"
+          },
+          "v": "Polyurethane"
+        },
+        {
+          "k": {
+            "en": "Temperature Range",
+            "zh": "温度范围",
+            "de": "Temperatur",
+            "es": "Temperatura"
+          },
+          "v": "-35 +120°C"
+        },
+        {
+          "k": {
+            "en": "Max Pressure",
+            "zh": "最大压力",
+            "de": "Max. Druck",
+            "es": "Presión Máx"
+          },
+          "v": "500 bar"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-bsfp-20",
+      "sku": "SHS-BSFP-20",
+      "name": {
+        "en": "BSFP Piston Seal Cylinder Seal with O-ring Energizer Polyurethane 60D <500 Bar Pressure -35 +120 Temperature All Standard Sizes",
+        "zh": "BSFP 活塞密封圈",
+        "de": "BSFP Piston Seal Cylinder Seal with O-ring Energizer Polyurethane 60D <500 Bar Pressure -35 +120 Temperature All Standard Sizes",
+        "es": "BSFP Piston Seal Cylinder Seal with O-ring Energizer Polyurethane 60D <500 Bar Pressure -35 +120 Temperature All Standard Sizes"
+      },
+      "price": "US$1+",
+      "moq": "100 pieces",
+      "category": "oring",
+      "images": [
+        "products/p20.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Oring"
+        },
+        {
+          "k": {
+            "en": "Material",
+            "zh": "材质",
+            "de": "Material",
+            "es": "Material"
+          },
+          "v": "Polyurethane"
+        },
+        {
+          "k": {
+            "en": "Temperature Range",
+            "zh": "温度范围",
+            "de": "Temperatur",
+            "es": "Temperatura"
+          },
+          "v": "-35 +120°C"
+        },
+        {
+          "k": {
+            "en": "Max Pressure",
+            "zh": "最大压力",
+            "de": "Max. Druck",
+            "es": "Presión Máx"
+          },
+          "v": "500 Bar"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-hbst-21",
+      "sku": "SHS-HBST-21",
+      "name": {
+        "en": "HBST Guider Tape Hydraulic Cylinder Seal All Standard Sizes Made in China",
+        "zh": "HBST 导向带",
+        "de": "HBST Guider Tape Hydraulic Cylinder Seal All Standard Sizes Made in China",
+        "es": "HBST Guider Tape Hydraulic Cylinder Seal All Standard Sizes Made in China"
+      },
+      "price": "US$1+",
+      "moq": "100 pieces",
+      "category": "oring",
+      "images": [
+        "products/p21.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Oring"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-h844-22",
+      "sku": "SHS-H844-22",
+      "name": {
+        "en": "H844 Umbrella Designed Wiper Seal Hydraulic and PU 93 Shore A Seal Temperature -40 to +100 Speed <1 m/s",
+        "zh": "H844 防尘密封圈",
+        "de": "H844 Umbrella Designed Wiper Seal Hydraulic and PU 93 Shore A Seal Temperature -40 to +100 Speed <1 m/s",
+        "es": "H844 Umbrella Designed Wiper Seal Hydraulic and PU 93 Shore A Seal Temperature -40 to +100 Speed <1 m/s"
+      },
+      "price": "US$1+",
+      "moq": "100 pieces",
+      "category": "wiper",
+      "images": [
+        "products/p22.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Wiper"
+        },
+        {
+          "k": {
+            "en": "Material",
+            "zh": "材质",
+            "de": "Material",
+            "es": "Material"
+          },
+          "v": "PU"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-ghp-23",
+      "sku": "SHS-GHP-23",
+      "name": {
+        "en": "GHP Double Steps Single Lip Wiper Seal Hydraulic Seal PU 93 Shore A Cylinder Seal -40 to +100 <1 m/s",
+        "zh": "GHP 防尘密封圈",
+        "de": "GHP Double Steps Single Lip Wiper Seal Hydraulic Seal PU 93 Shore A Cylinder Seal -40 to +100 <1 m/s",
+        "es": "GHP Double Steps Single Lip Wiper Seal Hydraulic Seal PU 93 Shore A Cylinder Seal -40 to +100 <1 m/s"
+      },
+      "price": "US$1+",
+      "moq": "100 pieces",
+      "category": "wiper",
+      "images": [
+        "products/p23.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Wiper"
+        },
+        {
+          "k": {
+            "en": "Material",
+            "zh": "材质",
+            "de": "Material",
+            "es": "Material"
+          },
+          "v": "PU"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-brtp-24",
+      "sku": "SHS-BRTP-24",
+      "name": {
+        "en": "BRTP O Ring Back Up Seal Cylinder Hydraulic Seal TPE Rod Seal All Standard Sizes",
+        "zh": "BRTP 活塞杆密封圈",
+        "de": "BRTP O Ring Back Up Seal Cylinder Hydraulic Seal TPE Rod Seal All Standard Sizes",
+        "es": "BRTP O Ring Back Up Seal Cylinder Hydraulic Seal TPE Rod Seal All Standard Sizes"
+      },
+      "price": "US$1+",
+      "moq": "100 pieces",
+      "category": "oring",
+      "images": [
+        "products/p24.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Oring"
+        },
+        {
+          "k": {
+            "en": "Material",
+            "zh": "材质",
+            "de": "Material",
+            "es": "Material"
+          },
+          "v": "TPE"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-spgw-25",
+      "sku": "SHS-SPGW-25",
+      "name": {
+        "en": "SPGW Heavy Duty Piston Seal Hydraulic Seal Nylon/PTFE Seal Cylinder Seal <400 bar Pressure -35 +100 Temperature All Standard",
+        "zh": "SPGW 活塞密封圈",
+        "de": "SPGW Heavy Duty Piston Seal Hydraulic Seal Nylon/PTFE Seal Cylinder Seal <400 bar Pressure -35 +100 Temperature All Standard",
+        "es": "SPGW Heavy Duty Piston Seal Hydraulic Seal Nylon/PTFE Seal Cylinder Seal <400 bar Pressure -35 +100 Temperature All Standard"
+      },
+      "price": "US$1+",
+      "moq": "100 pieces",
+      "category": "hydraulic",
+      "images": [
+        "products/p25.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Hydraulic"
+        },
+        {
+          "k": {
+            "en": "Material",
+            "zh": "材质",
+            "de": "Material",
+            "es": "Material"
+          },
+          "v": "Nylon"
+        },
+        {
+          "k": {
+            "en": "Temperature Range",
+            "zh": "温度范围",
+            "de": "Temperatur",
+            "es": "Temperatura"
+          },
+          "v": "-35 +100°C"
+        },
+        {
+          "k": {
+            "en": "Max Pressure",
+            "zh": "最大压力",
+            "de": "Max. Druck",
+            "es": "Presión Máx"
+          },
+          "v": "400 bar"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-pae-26",
+      "sku": "SHS-PAE-26",
+      "name": {
+        "en": "PAE Heavy Duty Piston Seal Hydraulic Seal Nylon Seal for Cylinder All Standard Sizes CN ZHE",
+        "zh": "PAE 活塞密封圈",
+        "de": "PAE Heavy Duty Piston Seal Hydraulic Seal Nylon Seal for Cylinder All Standard Sizes CN ZHE",
+        "es": "PAE Heavy Duty Piston Seal Hydraulic Seal Nylon Seal for Cylinder All Standard Sizes CN ZHE"
+      },
+      "price": "US$1+",
+      "moq": "100 pieces",
+      "category": "hydraulic",
+      "images": [
+        "products/p26.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Hydraulic"
+        },
+        {
+          "k": {
+            "en": "Material",
+            "zh": "材质",
+            "de": "Material",
+            "es": "Material"
+          },
+          "v": "Nylon"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-seal-27",
+      "sku": "SHS-SEAL-27",
+      "name": {
+        "en": "O Ring Backup Hydraulic PTFE Seal for Pump Application All Standard Sizes",
+        "zh": "O型圈背圈",
+        "de": "O Ring Backup Hydraulic PTFE Seal for Pump Application All Standard Sizes",
+        "es": "O Ring Backup Hydraulic PTFE Seal for Pump Application All Standard Sizes"
+      },
+      "price": "US$1+",
+      "moq": "100 pieces",
+      "category": "oring",
+      "images": [
+        "products/p27.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Oring"
+        },
+        {
+          "k": {
+            "en": "Material",
+            "zh": "材质",
+            "de": "Material",
+            "es": "Material"
+          },
+          "v": "PTFE"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-hby-28",
+      "sku": "SHS-HBY-28",
+      "name": {
+        "en": "HBY Hydraulic Rod Buffer Seal PU Seal Cylinder Seal Polyurethane 93 Shore A/POM Material <400 Bar Pressure <0.5 m/s speed -35",
+        "zh": "HBY 缓冲密封圈",
+        "de": "HBY Hydraulic Rod Buffer Seal PU Seal Cylinder Seal Polyurethane 93 Shore A/POM Material <400 Bar Pressure <0.5 m/s speed -35",
+        "es": "HBY Hydraulic Rod Buffer Seal PU Seal Cylinder Seal Polyurethane 93 Shore A/POM Material <400 Bar Pressure <0.5 m/s speed -35"
+      },
+      "price": "US$1+",
+      "moq": "100 pieces",
+      "category": "wiper",
+      "images": [
+        "products/p28.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Wiper"
+        },
+        {
+          "k": {
+            "en": "Material",
+            "zh": "材质",
+            "de": "Material",
+            "es": "Material"
+          },
+          "v": "PU"
+        },
+        {
+          "k": {
+            "en": "Max Pressure",
+            "zh": "最大压力",
+            "de": "Max. Druck",
+            "es": "Presión Máx"
+          },
+          "v": "400 Bar"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-mt-29",
+      "sku": "SHS-MT-29",
+      "name": {
+        "en": "MT Spider for Shaft Couplings No Brand China Zhejiang",
+        "zh": "MT 联轴器",
+        "de": "MT Spider for Shaft Couplings No Brand China Zhejiang",
+        "es": "MT Spider for Shaft Couplings No Brand China Zhejiang"
+      },
+      "price": "US$1+",
+      "moq": "100 pieces",
+      "category": "custom",
+      "images": [
+        "products/p29.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Custom"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    },
+    {
+      "id": "shs-am-30",
+      "sku": "SHS-AM-30",
+      "name": {
+        "en": "AM Steel Wiper Single Lip Open Groove Hydraulic Cylinder Seal PU/Steel Material Temperature -40 to +100 C Speed <1m/s",
+        "zh": "AM 防尘密封圈",
+        "de": "AM Steel Wiper Single Lip Open Groove Hydraulic Cylinder Seal PU/Steel Material Temperature -40 to +100 C Speed <1m/s",
+        "es": "AM Steel Wiper Single Lip Open Groove Hydraulic Cylinder Seal PU/Steel Material Temperature -40 to +100 C Speed <1m/s"
+      },
+      "price": "US$1+",
+      "moq": "100 pieces",
+      "category": "wiper",
+      "images": [
+        "products/p30.jpg"
+      ],
+      "specs": [
+        {
+          "k": {
+            "en": "Place of Origin",
+            "zh": "产地",
+            "de": "Herkunft",
+            "es": "Origen"
+          },
+          "v": "Zhejiang, China"
+        },
+        {
+          "k": {
+            "en": "Brand",
+            "zh": "品牌",
+            "de": "Marke",
+            "es": "Marca"
+          },
+          "v": "SHINE SEAL"
+        },
+        {
+          "k": {
+            "en": "Category",
+            "zh": "类别",
+            "de": "Kategorie",
+            "es": "Categoría"
+          },
+          "v": "Wiper"
+        },
+        {
+          "k": {
+            "en": "Material",
+            "zh": "材质",
+            "de": "Material",
+            "es": "Material"
+          },
+          "v": "PU"
+        },
+        {
+          "k": {
+            "en": "Customization",
+            "zh": "定制服务",
+            "de": "Anpassung",
+            "es": "Personalización"
+          },
+          "v": "OEM / ODM Welcome (Custom Molds Available)"
+        },
+        {
+          "k": {
+            "en": "Sample",
+            "zh": "样品",
+            "de": "Muster",
+            "es": "Muestra"
+          },
+          "v": "Free Sample Available"
+        },
+        {
+          "k": {
+            "en": "Lead Time",
+            "zh": "交货期",
+            "de": "Lieferzeit",
+            "es": "Tiempo de Entrega"
+          },
+          "v": "5-7 days for stock items"
+        },
+        {
+          "k": {
+            "en": "Payment",
+            "zh": "付款方式",
+            "de": "Zahlung",
+            "es": "Pago"
+          },
+          "v": "T/T, Alibaba Trade Assurance"
+        }
+      ],
+      "detailImgs": []
+    }
+  ],
+  "staff_intel": [
+    {
+      "cat": "PRODUCT MIX",
+      "t": "Top SKU Categories",
+      "c": "Hydraulic piston seals (BSFP/BSJ) and wipers (DKB/AY/GA) make up ~60% of revenue. Custom OEM molds are growing fastest."
+    },
+    {
+      "cat": "KEY MARKETS",
+      "t": "Geography Focus",
+      "c": "39% export, mainly USA, Germany, Brazil. India and Türkiye are growing fast for distributor partnerships."
+    },
+    {
+      "cat": "PRICING",
+      "t": "MOQ & Pricing Notes",
+      "c": "Standard items: 100 pcs MOQ, $0.30-$5/pc range. Mold tooling: free above $5K order, otherwise $200-500 NRE."
+    },
+    {
+      "cat": "COMPETITORS",
+      "t": "Main Competitors",
+      "c": "Hallite, Trelleborg (premium tier). For our tier: Zhongding, NOK (China). We win on lead time and custom mold speed."
+    }
+  ],
+  "staff_sop": [
+    {
+      "cat": "INQUIRY",
+      "t": "Standard Response Template (≤4h)",
+      "c": "1) Confirm receipt within 1h. 2) Acknowledge spec list. 3) Request missing dims (ID/OD/thickness/material). 4) Quote within 4h or escalate to mold workshop."
+    },
+    {
+      "cat": "CUSTOM MOLD",
+      "t": "Mold Workshop Workflow",
+      "c": "Drawing → engineer feasibility check (24h) → quote NRE + per-piece price → tooling 15-25 days → samples → mass production. Communicate timeline clearly upfront."
+    },
+    {
+      "cat": "QUALITY",
+      "t": "Defect Handling",
+      "c": "Photos + lot number required. Acknowledge within 4h. Replacement ships same week. Document root cause for next batch."
+    },
+    {
+      "cat": "PAYMENT",
+      "t": "Terms by Customer Tier",
+      "c": "First order: 100% T/T or 30% deposit + 70% before shipment. Repeat (>3 orders): negotiate L/C or D/P. Always Alibaba Trade Assurance for new buyers."
+    }
+  ]
+}
